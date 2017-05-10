@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="linhdoesdoodles.github.io" resolutions="1x" timestamp="1494386315362">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="linhdoesdoodles.github.io" resolutions="1x" timestamp="1494388363384">
   <folder name="images">
     <file name="6.jpg" crc="3889672762" seo="true" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="3930632980" ref="index"/>
+    <file name="index.css" crc="509312378" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -12,5 +12,5 @@
     <file name="whatinput.js" crc="84559013" ref="index"/>
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
   </folder>
-  <file name="index.html" crc="4049882042" seo="true" mt="1494386292537" redirect="true"/>
+  <file name="index.html" crc="4253121189" seo="true" mt="1494388340082" redirect="true"/>
 </manifest>
